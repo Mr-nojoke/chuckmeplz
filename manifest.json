@@ -1,0 +1,21 @@
+{
+  "name": "chuckmeplz",
+  "short_name": "chuckmeplz",
+  "description": "create chuck norris joke with your name",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#E53935",
+  "background_color": "#F44336",
+  "icons": [
+    {
+      "src": "images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/icon-310x310.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    }
+  ]
+}
